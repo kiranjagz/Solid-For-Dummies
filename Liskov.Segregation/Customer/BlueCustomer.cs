@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Liskov.Segregation.Customer
+namespace Liskov.Substitution.Customer
 {
     public class BlueCustomer : BaseCustomer
     {

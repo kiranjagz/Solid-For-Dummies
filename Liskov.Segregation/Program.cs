@@ -1,8 +1,9 @@
 ﻿using Liskov.Segregation.Customer;
+using Liskov.Substitution.Customer;
 using System;
 using System.Collections.Generic;
 
-namespace Liskov.Segregation
+namespace Liskov.Substitution
 {
     class Program
     {
